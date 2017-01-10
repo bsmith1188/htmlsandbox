@@ -7,8 +7,8 @@
 		<title>HTML SANDBOX</title>
 	</head>
 	<body>
-		<h1>This is a demo page.</h1>
-		<p>Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text.</p>
+		<h1 class="foo-heading">This is a demo page.</h1>
+		<p id="Description-of-this-specific-paragraph">Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text. Dummy text.</p>
 		<h2>This is a list.</h2>
 		<ul>
 			<li>Lsit item 1.</li>
@@ -36,6 +36,7 @@
 			</tr>
 		</table>
 		<img src="images/catdog.png" alt="catdog photo">
+		<img src="images/testimage.jpg">
 		<p>This is a link to <a href="https://www.google.com" target="_blank">google</a>.</p>
 	</body>
 </html>
