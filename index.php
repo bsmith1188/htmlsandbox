@@ -35,6 +35,7 @@
 				<td>Boxer</td>
 			</tr>
 		</table>
+		<span>This is a span, its purpose still escapes me because I was busy trying to fix a different problem. The solution shall be google.</span>
 		<img src="images/catdog.png" alt="catdog photo">
 		<img src="images/testimage.jpg">
 		<p>This is a link to <a href="https://www.google.com" target="_blank">google</a>.</p>
