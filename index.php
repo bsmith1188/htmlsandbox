@@ -35,7 +35,7 @@
 				<td>Boxer</td>
 			</tr>
 		</table>
-		<span>This is a span, its purpose still escapes me because I was busy trying to fix a different problem. The solution shall be google. I also just noticed that this span is moving the cat dog image so lets see what happens with more text.</span>
+		<span>This is a span, its purpose still escapes me because I was busy trying to fix a different problem. The solution shall be google. I also just noticed that this span is moving the cat dog image so lets see what happens with more text. Goddamnit I didnt click commit and push so now I need to type more.</span>
 
 		<img src="images/catdog.png" alt="catdog photo">
 		<img src="images/testimage.jpg">
